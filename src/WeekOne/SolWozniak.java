@@ -6,17 +6,20 @@ public class SolWozniak {
         double gpa;
         char letterGrade;
         boolean csMajor;
+        String birthday;
 
         //initialize
         age = 19;
         gpa= 3.9;
         letterGrade='B';
         csMajor=false;
+        birthday="February";
+
 
         String favoriteAColor;
-        favoriteAColor="periwinkle";
+        favoriteAColor="Orange";
 
-        System.out.println("Age:"+age+" GPA:"+gpa+" Grade:"+letterGrade+"\nComputer Science Major: "+csMajor+" Favorite color:"+favoriteAColor);
+        System.out.println("Sol Wozniak\nAge:"+age+" Born in:"+birthday+ " GPA:"+gpa+" Grade:"+letterGrade+"\nComputer Science Major: "+csMajor+" Favorite color:"+favoriteAColor);
         }
 
 }
