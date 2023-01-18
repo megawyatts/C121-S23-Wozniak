@@ -7,7 +7,9 @@ public class dialog {
 
         int int3=int1/int2;
         System.out.printf("1. Dividing int by int: %d\n",int3);
-        
+
+
+
 
     }
 }
