@@ -12,21 +12,21 @@ public class Scanner {
         String revFullName="";
 
 
-        firstName=JOptionPane.showInputDialog("Enter your first name.");
-        lastName=JOptionPane.showInputDialog("Enter your last Name.");
+        firstName=JOptionPane.showInputDialog(null,"Enter your first name.");
+        lastName=JOptionPane.showInputDialog(null,"Enter your last Name.");
         fullName=firstName+" "+lastName;
         fullNameBackwards=lastName+" "+firstName;
         upperName=(firstName.toUpperCase())+" "+(lastName.toUpperCase());
         lowerName=(firstName.toLowerCase())+" "+(lastName.toLowerCase());
         length=fullNameBackwards.length();
-        System.out.println(fullName);
-        System.out.println(upperName);
-        System.out.println(lowerName);
+        JOptionPane.showMessageDialog(null,fullName);
+        JOptionPane.showMessageDialog(null,upperName);
+        JOptionPane.showMessageDialog(null,lowerName);
         for (int count=0;count<=length;count++)
         {
             revFullName=((fullNameBackwards.charAt(count))+revFullName);
             if (count>=length-1){
-                System.out.print(revFullName);
+                JOptionPane.showMessageDialog(null,revFullName);
         }
         }
 
