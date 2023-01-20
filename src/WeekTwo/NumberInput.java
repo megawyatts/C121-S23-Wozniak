@@ -1,6 +1,6 @@
 package WeekTwo;
 //---------------------
-// Assignment #1
+// Assignment #1- Task 2
 // Name: Sol Wozniak
 //January 20th 2023
 //*********

@@ -1,4 +1,20 @@
 package WeekTwo;
+// Assignment #1- Task One
+// Name: Sol Wozniak
+//January 20th 2023
+//*********
+// This program asks the user to input their first and Last NAme, and then assigns them to two variables.
+// It then shows in a Dialog box, the user's full name, as they entered it, in lowercase letters, and in uppercase letters.
+// It then reverses the letters of the first and last name, but still puts them in "firstName lastName" order
+//The Dialog box is used to gather input and show output.
+// An If statement is used when reversing the letters so that the name is printed when it is finished.
+//************************************
+
+//************************************
+// Class: NumberInput  : : main()
+//Parameters:None
+//No Functions
+//*************
 import javax.swing.JOptionPane;
 public class Scanner {
     public static void main(String[]args){
