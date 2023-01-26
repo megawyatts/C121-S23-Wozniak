@@ -23,7 +23,7 @@ public class SwitchActivity {
             case "Meiko":
                 JOptionPane.showMessageDialog(null,"Name: MEIKO\nVoice Provider: Meiko Haigo \nInitial Engine: V1\nReleased: November 5th 2004");
                 break;
-            case "Keito":
+            case "Kaito":
                 JOptionPane.showMessageDialog(null,"Name:KAITO\nVoice Provider: Naoto Fuga \nInitial Engine: V1\nReleased: February 14th 2006");
                 break;
             default:
