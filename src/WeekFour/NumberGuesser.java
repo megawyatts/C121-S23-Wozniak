@@ -5,7 +5,7 @@ public class NumberGuesser {
     public static void main(String[]args){
         Scanner keyboard=new Scanner(System.in);
         Random random = new Random();
-        int targetInt=random.nextInt(100);
+        int targetInt=random.nextInt(101);
         int userGuess;
 
         System.out.println("Give me a number between 1 and 100 and i'll tell you whether you're higher or lower than the number i'm thinking of.");
