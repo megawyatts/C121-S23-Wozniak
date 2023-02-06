@@ -11,12 +11,12 @@ public class ReadFile {
             Scanner input = new Scanner(courses);
 
             while (input.hasNextLine()) {
-                String line = input.nextLine();
+                String line = input.next();
                 System.out.println(line);
             }
             input.close();
         } catch(FileNotFoundException e){
-            e.printStackTrace();
+            System.err.println("File not found.");
         }
     }
 
