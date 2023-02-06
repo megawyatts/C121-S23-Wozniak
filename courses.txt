@@ -1,0 +1,4 @@
+course credits score
+c121 4 98
+c124 3 95
+eng200 3 89
