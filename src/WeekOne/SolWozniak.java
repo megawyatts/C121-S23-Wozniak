@@ -2,14 +2,14 @@ package WeekOne;
 
 public class SolWozniak {
     public static void main(String[] args){
-        int age;
+        final int age=18;
         double gpa;
         char letterGrade;
         boolean csMajor;
         String birthday;
 
         //initialize
-        age = 19;
+        //age = 19;
         gpa= 3.9;
         letterGrade='B';
         csMajor=false;

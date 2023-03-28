@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9c9c0df-b979-4748-ad51-b4102b51a51e" name="Changes" comment="Commmit">
-      <change afterPath="$PROJECT_DIR$/src/WeekSeven/ArrayDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekSeven/ArrayDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekSeven/ArrayDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekSeven/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekEleven/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekEleven/SelectionSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekEleven/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekEleven/SortingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekTen/CatBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekTen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekTwelve/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekTwelve/SetsAndIterators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WeekOne/SolWozniak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeekOne/SolWozniak.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +45,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/saras/OneDrive/Documents/GitHub/C121-S23-Wozniak/practice1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/saras/OneDrive/Documents/GitHub/C121-S23-Wozniak/practice1",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -191,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676903752891</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Commmit">
+      <created>1677253392900</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1677253392900</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,11 +218,6 @@
           <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/WeekSeven/ArrayFromInput.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
