@@ -10,13 +10,13 @@ public class IteratorDemo {
         namesList.add("STeve");
         namesList.add("Sarah");
 
-        Iterator<String> iter= new iterator();
+       // Iterator<String> iter= new iterator();
 
-        while(iter.hasNext()){
-            String name= iter.next();
-            System.out.println(name);
-        }
-        System.out.println(namesList);
+     //   while(iter.hasNext()){
+            //String name= iter.next();
+          //  System.out.println(name);
+        //}
+      //  System.out.println(namesList);
     }
 
 
