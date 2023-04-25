@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c9c0df-b979-4748-ad51-b4102b51a51e" name="Changes" comment="Commmit">
-      <change afterPath="$PROJECT_DIR$/src/WeekFifteen/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekThirteen/BoundedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekThirteen/LinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekThirteen/LinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekThirteen/StackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekThirteen/queueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekTwelve/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/WeekFifteen/RoomTest.java" afterDir="false" />
+    <list default="true" id="9fbb0a57-e7af-4eea-9ad8-fac000514394" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeekTwelve/GenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeekTwelve/GenericMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeekTwelve/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeekTwelve/IteratorDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +16,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -37,215 +25,26 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="2KH8OVChgRud7OlRKVKS4tEPNvn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2KBUwcLKs7o9OYNGh7oM27CQwtt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
-    "last_opened_file_path": "C:/Users/saras/OneDrive/Documents/GitHub/C121-S23-Wozniak/practice1",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="WeekFifteen" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f9c9c0df-b979-4748-ad51-b4102b51a51e" name="Changes" comment="" />
-      <created>1673620117150</created>
+      <changelist id="9fbb0a57-e7af-4eea-9ad8-fac000514394" name="Changes" comment="" />
+      <created>1673447711554</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1673620117150</updated>
+      <updated>1673447711554</updated>
     </task>
-    <task id="LOCAL-00001" summary="Commmit">
-      <created>1673621211077</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1673621211077</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Commmit">
-      <created>1674055631009</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1674055631009</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Commmit">
-      <created>1674057947608</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1674057947608</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Commmit">
-      <created>1674230265338</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1674230265338</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Commmit">
-      <created>1674230507716</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1674230507716</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Commmit">
-      <created>1674236859072</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1674236859072</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Commmit">
-      <created>1674236865951</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1674236865951</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Commmit">
-      <created>1674484978067</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1674484978067</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Commmit">
-      <created>1674775671103</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1674775671103</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Commmit">
-      <created>1674775836688</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1674775836688</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Commmit">
-      <created>1675089024506</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1675089024506</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Commmit">
-      <created>1675175948906</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1675175948906</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Commmit">
-      <created>1675178236376</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1675178236376</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Commmit">
-      <created>1675260345601</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1675260345601</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Commmit">
-      <created>1675261600674</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1675261600674</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Commmit">
-      <created>1675693681321</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1675693681321</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Commmit">
-      <created>1675696933885</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1675696933885</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Commmit">
-      <created>1675781930590</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1675781930590</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Commmit">
-      <created>1676903752891</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1676903752891</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Commmit">
-      <created>1677253392900</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1677253392900</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Commmit">
-      <created>1680011214398</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1680011214398</updated>
-    </task>
-    <option name="localTasksCounter" value="22" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commmit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commmit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

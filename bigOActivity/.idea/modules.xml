@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/C121-S1-Wozniak.iml" filepath="$PROJECT_DIR$/.idea/C121-S1-Wozniak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigOActivity.iml" filepath="$PROJECT_DIR$/bigOActivity.iml" />
     </modules>
   </component>
 </project>
